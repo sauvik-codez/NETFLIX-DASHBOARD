@@ -18,20 +18,12 @@ DAX – Calculations and measures in Power BI
 
 CSV Dataset – Netflix titles dataset
 
-Files Included
+**Key Features**
 
-Netflix_Dashboard.pbix – Power BI dashboard file
+*Comparison of Movies vs TV Shows
 
-netflix_titles.csv – Dataset used for analysis
+*Analysis of content by release year
 
-README.md – Project documentation
+*Key metrics such as total titles and average runtime
 
-Key Features
-
-Comparison of Movies vs TV Shows
-
-Analysis of content by release year
-
-Key metrics such as total titles and average runtime
-
-Interactive filters for exploring the dataset
+*Interactive filters for exploring the dataset
