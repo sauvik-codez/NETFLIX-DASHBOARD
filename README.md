@@ -8,7 +8,7 @@ This project presents an interactive dashboard that analyzes the Netflix content
 
 The dataset used for this project is stored in CSV format, and it was cleaned and transformed before creating the visualizations. The dashboard helps users easily explore patterns and trends in Netflix’s content catalog.
 
-Tools and Technologies
+**Tools and Technologies**
 
 Microsoft Power BI – Data visualization and dashboard creation
 
@@ -20,10 +20,10 @@ CSV Dataset – Netflix titles dataset
 
 **Key Features**
 
-*Comparison of Movies vs TV Shows
+- Comparison of Movies vs TV Shows
 
-*Analysis of content by release year
+- Analysis of content by release year
 
-*Key metrics such as total titles and average runtime
+- Key metrics such as total titles and average runtime
 
-*Interactive filters for exploring the dataset
+- Interactive filters for exploring the dataset
